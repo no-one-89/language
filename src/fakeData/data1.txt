@@ -1,0 +1,68 @@
+[
+	 {
+			 "parkName": "北京华联生活超市停车场",
+			 "parkosVersion": "10",
+			 "whetherRoadside": "2",
+			 "parkId": "96636"
+	 },
+	 {
+			 "parkName": "青岛奥帆中心三号停车场",
+			 "parkosVersion": "10",
+			 "whetherRoadside": "2",
+			 "parkId": "98125"
+	 },
+	 {
+			 "parkName": "测试占道停车场01",
+			 "parkosVersion": "20",
+			 "whetherRoadside": "1",
+			 "parkId": "906880750001"
+	 },
+	 {
+			 "parkName": "青岛奥帆中心一号停车场",
+			 "parkosVersion": "10",
+			 "whetherRoadside": "2",
+			 "parkId": "97696"
+	 },
+	 {
+			 "parkName": "测试占道停车场02",
+			 "parkosVersion": "20",
+			 "whetherRoadside": "1",
+			 "parkId": "906880750002"
+	 },
+	 {
+			 "parkName": "万通新世界",
+			 "parkosVersion": "10",
+			 "whetherRoadside": "2",
+			 "parkId": "3"
+	 },
+	 {
+			 "parkName": "北京科技会展中心停车场",
+			 "parkosVersion": "10",
+			 "whetherRoadside": "2",
+			 "parkId": "1"
+	 },
+	 {
+			 "parkName": "海淀北一街",
+			 "parkosVersion": "20",
+			 "whetherRoadside": "1",
+			 "parkId": "90000021"
+	 },
+	 {
+			 "parkName": "重庆市渝中区奎星楼停车场",
+			 "parkosVersion": "10",
+			 "whetherRoadside": "2",
+			 "parkId": "98584"
+	 },
+	 {
+			 "parkName": "北京科技会展中心内场",
+			 "parkosVersion": "10",
+			 "whetherRoadside": "2",
+			 "parkId": "86919"
+	 },
+	 {
+			 "parkName": "塔院小区项目部",
+			 "parkosVersion": "10",
+			 "whetherRoadside": "2",
+			 "parkId": "2691"
+	 }
+]	

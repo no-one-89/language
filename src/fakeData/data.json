@@ -1,0 +1,15 @@
+{
+    "parkArray": [{
+            "parkName": "北京华联生活超市停车场",
+            "parkosVersion": "10",
+            "whetherRoadside": "2",
+            "parkId": "96636"
+        },
+        {
+            "parkName": "青岛奥帆中心三号停车场",
+            "parkosVersion": "10",
+            "whetherRoadside": "2",
+            "parkId": "98125"
+        }
+    ]
+}
